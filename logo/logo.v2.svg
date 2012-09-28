@@ -28,9 +28,9 @@
      inkscape:window-height="744"
      id="namedview3273"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="299.45116"
-     inkscape:cy="989.61028"
+     inkscape:zoom="10.923077"
+     inkscape:cx="57"
+     inkscape:cy="843.5"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
@@ -55,70 +55,336 @@
      inkscape:connector-curvature="0"
      d="m 37,94 c 0,0 13,0 20,0 4,0 4,-4 4,-4 0,-32 0,4 0,-28 0,0 0,-4 -4,-4 -7,0 -20,0 -20,0 z m -8,-64 8,0 0,20 c 0,0 17,0 24,0 4,0 8,4 8,8 0,40 0,-4 0,36 0,4 -4,8 -8,8 -12,0 -32,0 -32,0 z"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     id="path3952" />
+     id="path3952"
+     sodipodi:nodetypes="csccscccccsssscc" />
   <path
      inkscape:connector-curvature="0"
      d="m 89,42 0,8 -8,0 0,-8 z"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     id="path3954" />
+     id="path3954"
+     sodipodi:nodetypes="ccccc" />
   <path
      inkscape:connector-curvature="0"
      d="m 223,102 4,-8 c 8,0 17,0 26,0 4,0 4,-4 4,-4 l 0,-9 c 0,0 0,-4 -4,-4 -12,0 -9,0 -22,0 -4,0 -8,-4 -8,-8 l 0,-11 c 0,-4 4,-8 8,-8 6,0 18,0 26,0 l 4,8 c -12,0 -17,0 -26,0 -4,0 -4,4 -4,4 l 0,3 c 0,0 0,4 4,4 12,0 10,0 22,0 4,0 8,4 8,8 l 0,17 c 0,4 -4,8 -8,8 -9,0 -26,0 -34,0 z"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     id="path3956" />
+     id="path3956"
+     sodipodi:nodetypes="ccsccsssssccsccsssssc" />
   <path
      inkscape:connector-curvature="0"
      d="m 482,102 c 0,0 -14,0 -22,0 -4,0 -8,-4 -8,-8 0,-8 0,-21 0,-36 0,-4 4,-8 8,-8 8,0 22,0 22,0 l 4,8 -22,0 c 0,0 -4,0 -4,4 0,11 0,21 0,28 0,4 4,4 4,4 l 22,0 z"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     id="path3958" />
+     id="path3958"
+     sodipodi:nodetypes="csssscccssccc" />
   <path
      inkscape:connector-curvature="0"
      id="path3960"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     d="m 441,42 0,8 -8,0 0,-8 z" />
+     d="m 441,42 0,8 -8,0 0,-8 z"
+     sodipodi:nodetypes="ccccc" />
   <path
      inkscape:connector-curvature="0"
      d="m 441,58 0,44 -8,0 0,-44 z"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     id="path3962" />
+     id="path3962"
+     sodipodi:nodetypes="ccccc" />
   <path
      inkscape:connector-curvature="0"
      id="path3964"
      d="m 306,30 0,72 c 6,0 8,0 8,0 0,-25 0,-19 0,-44 l 16,0 c 4,0 4,4 4,4 0,24 0,16 0,40 l 8,0 c 0,-24 0,-20 0,-44 0,-4 -4,-8 -8,-8 -7,0 -8,0 -20,0 l 0,-20 z"
-     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'" />
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     sodipodi:nodetypes="ccccscccssccc" />
   <path
      inkscape:connector-curvature="0"
      id="path3966"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     d="m 273,38 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -3,8 -15,0 c -4,0 -8,-4 -8,-8 z" />
+     d="m 273,38 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -3,8 -15,0 c -4,0 -8,-4 -8,-8 z"
+     sodipodi:nodetypes="cccccccsccssc" />
   <path
      inkscape:connector-curvature="0"
      d="m 383,50 c 4,0 8,4 8,8 0,7 0,19 0,19 l -33,0 0,13 c 0,0 0,4 4,4 3,0 29,0 29,0 l -4,8 c 0,0 -21,0 -29,0 -4,0 -8,-4 -8,-8 l 0,-36 c 0,-4 4,-8 8,-8 16,0 13,0 25,0 z m 0,19 0,-7 c 0,0 0,-4 -4,-4 -8,0 -9,0 -17,0 -4,0 -4,4 -4,4 l 0,7 z"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     id="path3968" />
+     id="path3968"
+     sodipodi:nodetypes="sscccsccsssssccssccc" />
   <path
      inkscape:connector-curvature="0"
      id="path3025"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     d="m 495,102 4,-8 c 8,0 17,0 26,0 4,0 4,-4 4,-4 l 0,-9 c 0,0 0,-4 -4,-4 -12,0 -9,0 -22,0 -4,0 -8,-4 -8,-8 l 0,-11 c 0,-4 4,-8 8,-8 6,0 18,0 26,0 l 4,8 c -12,0 -17,0 -26,0 -4,0 -4,4 -4,4 l 0,3 c 0,0 0,4 4,4 12,0 10,0 22,0 4,0 8,4 8,8 l 0,17 c 0,4 -4,8 -8,8 -9,0 -26,0 -34,0 z" />
+     d="m 495,102 4,-8 c 8,0 17,0 26,0 4,0 4,-4 4,-4 l 0,-9 c 0,0 0,-4 -4,-4 -12,0 -9,0 -22,0 -4,0 -8,-4 -8,-8 l 0,-11 c 0,-4 4,-8 8,-8 6,0 18,0 26,0 l 4,8 c -12,0 -17,0 -26,0 -4,0 -4,4 -4,4 l 0,3 c 0,0 0,4 4,4 12,0 10,0 22,0 4,0 8,4 8,8 l 0,17 c 0,4 -4,8 -8,8 -9,0 -26,0 -34,0 z"
+     sodipodi:nodetypes="ccsccsssssccsccsssssc" />
   <path
      inkscape:connector-curvature="0"
      id="path3972"
-     d="m 140,50 4,8 25,0 c 0,0 4,0 4,4 0,4 0,3 0,7 l -29,0 c -4,0 -8,4 -8,8 l 0,17 c 0,4 4,8 8,8 8,0 20,0 29,0 4,0 8,-4 8,-8 0,-6 0,-10 0,-17 0,0 15,0 26,0 4,0 8,-4 8,-8 0,-3 0,-5 0,-7 l 0,-4 c 0,-4 -4,-8 -8,-8 l -26,0 c -1,0 -2,0 -3,1 3,1 4,4 4,7 l 0,1 c 1,-1 2,-1 3,-1 l 18,0 c 4,0 4,4 4,4 l 0,3 c 0,4 -4,4 -4,4 l -22,0 0,-11 c 0,-4 -4,-8 -8,-8 l -33,0 z m 8,27 25,0 c 0,4 0,9 0,12 0,5 -4,5 -4,5 l -21,0 c -4,0 -4,-4 -4,-4 l 0,-9 c 0,0 0,-4 4,-4 z m 34,16 0,1 c 0,3 -2,6 -4,7 1,1 2,1 3,1 l 30,0 4,-8 -30,0 c -1,0 -2,0 -3,-1 z"
-     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'" />
+     d="m 140,50 4,8 25,0 c 0,0 4,0 4,4 0,4 0,3 0,7 l -29,0 c -4,0 -8,4 -8,8 l 0,17 c 0,4 4,8 8,8 8,0 20,0 29,0 4,0 8,-4 8,-8 0,-6 0,-10 0,-17 0,0 15,0 26,0 4,0 8,-4 8,-8 0,-3 0,-5 0,-7 l 0,-4 c 0,-4 -4,-8 -8,-8 l -26,0 c -1,0 -2,0 -3,1 3,1 4,4 4,7 l 0,1 c 1,-1 2,-1 3,-1 l 18,0 c 4,0 4,4 4,4 l 0,3 c 0,4 -4,4 -4,4 l -22,0 0,-11 c 0,-4 -4,-8 -8,-8 z m 8,27 25,0 c 0,4 0,9 0,12 0,5 -4,5 -4,5 l -21,0 c -4,0 -4,-4 -4,-4 l 0,-9 c 0,0 0,-4 4,-4 z m 34,16 0,1 c 0,3 -2,6 -4,7 1,1 2,1 3,1 l 30,0 4,-8 -30,0 c -1,0 -2,0 -3,-1 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     sodipodi:nodetypes="cccscsssssscsssssscscsscsccsscscscsccscscsccsc" />
   <path
      inkscape:connector-curvature="0"
      d="m 102,38 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -4,8 -14,0 c -4,0 -8,-4 -8,-8 z"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     id="path3976" />
+     id="path3976"
+     sodipodi:nodetypes="cccccccsccssc" />
   <path
      inkscape:connector-curvature="0"
      d="m 399,38 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -3,8 -15,0 c -4,0 -8,-4 -8,-8 z"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     id="path3978" />
+     id="path3978"
+     sodipodi:nodetypes="cccccccsccssc" />
   <path
      inkscape:connector-curvature="0"
      id="path3980"
      style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-     d="m 89,58 0,44 -8,0 0,-44 z" />
+     d="m 89,58 0,44 -8,0 0,-44 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path3293"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 33,156 c 0,0 6.5,0 10,0 2,0 2,-2 2,-2 0,-16 0,2 0,-14 0,0 0,-2 -2,-2 -3.5,0 -10,0 -10,0 z m -4,-32 4,0 0,10 c 0,0 8.5,0 12,0 2,0 4,2 4,4 0,20 0,-2 0,18 0,2 -2,4 -4,4 -6,0 -16,0 -16,0 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csccscccccsssscc" />
+  <path
+     id="path3295"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 59,130 0,4 -4,0 0,-4 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path3297"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 126,160 2,-4 c 4,0 8.5,0 13,0 2,0 2,-2 2,-2 l 0,-4 c 0,0 0,-2 -2,-2 -6,0 -4.5,0 -11,0 -2,0 -4,-2 -4,-4 l 0,-6 c 0,-2 2,-4 4,-4 3,0 9,0 13,0 l 2,4 c -6,0 -8.5,0 -13,0 -2,0 -2,2 -2,2 l 0,2 c 0,0 0,2 2,2 6,0 5,0 11,0 2,0 4,2 4,4 l 0,8 c 0,2 -2,4 -4,4 -4.5,0 -13,0 -17,0 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccsccsssssccsccsssssc" />
+  <path
+     id="path3299"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 255,160 c 0,0 -7,0 -11,0 -2,0 -4,-2 -4,-4 0,-4 0,-10.5 0,-18 0,-2 2,-4 4,-4 4,0 11,0 11,0 l 2,4 -11,0 c 0,0 -2,0 -2,2 0,5.5 0,10.5 0,14 0,2 2,2 2,2 l 11,0 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssscccssccc" />
+  <path
+     d="m 235,130 0,4 -4,0 0,-4 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3301"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path3303"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 235,138 0,22 -4,0 0,-22 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 167,124 0,36 c 3,0 4,0 4,0 0,-12.5 0,-9.5 0,-22 l 8,0 c 2,0 2,2 2,2 0,12 0,8 0,20 l 4,0 c 0,-12 0,-10 0,-22 0,-2 -2,-4 -4,-4 -3.5,0 -4,0 -10,0 l 0,-10 z"
+     id="path3305"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccscccssccc" />
+  <path
+     d="m 151,128 4,0 0,6 6,0 0,4 -6,0 0,16 c 0,0 0,2 2,2 l 7,0 -1.5,4 -7.5,0 c -2,0 -4,-2 -4,-4 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3307"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccsccssc" />
+  <path
+     id="path3309"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 205,134 c 2,0 4,2 4,4 0,3.5 0,10 0,10 l -16,0 0,6 c 0,0 0,2 2,2 1.5,0 14,0 14,0 l -2,4 c 0,0 -10,0 -14,0 -2,0 -4,-2 -4,-4 l 0,-18 c 0,-2 2,-4 4,-4 8,0 6,0 12,0 z m 0,10 0,-4 c 0,0 0,-2 -2,-2 -4,0 -4,0 -8,0 -2,0 -2,2 -2,2 l 0,4 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sscccsccsssssccssccc" />
+  <path
+     d="m 262,160 2,-4 c 4,0 8.5,0 13,0 2,0 2,-2 2,-2 l 0,-4 c 0,0 0,-2 -2,-2 -6,0 -4.5,0 -11,0 -2,0 -4,-2 -4,-4 l 0,-6 c 0,-2 2,-4 4,-4 3,0 9,0 13,0 l 2,4 c -6,0 -8.5,0 -13,0 -2,0 -2,2 -2,2 l 0,2 c 0,0 0,2 2,2 6,0 5,0 11,0 2,0 4,2 4,4 l 0,8 c 0,2 -2,4 -4,4 -4.5,0 -13,0 -17,0 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3311"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccsccsssssccsccsssssc" />
+  <path
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 84,134 2,4 13,0 c 0,0 2,0 2,2 0,2 0,2 0,4 l -15,0 c -2,0 -4,2 -4,4 l 0,8 c 0,2 2,4 4,4 4,0 10.5,0 15,0 2,0 4,-2 4,-4 0,-3 0,-4.5 0,-8 0,0 7,0 12.5,0 2,0 4,-2 4,-4 0,-1.5 0,-3 0,-4 l 0,-2 c 0,-2 -2,-4 -4,-4 l -11.75,0 c -0.5,0 -1,0 -1.5,0.5 1.5,0.5 2,2 2,3.5 l 0,0.5 c 0.5,-0.5 1,-0.5 1.5,-0.5 l 7.75,0 c 2,0 2,2 2,2 l 0,2 c 0,2 -2,2 -2,2 l -10.5,0 0,-6 c 0,-2 -2,-4 -4,-4 z m 4,14 13,0 c 0,2 0,4 0,5.5 0,2.5 -2,2.5 -2,2.5 l -11,0 c -2,0 -2,-2 -2,-2 l 0,-4 c 0,0 0,-2 2,-2 z m 18.25,7.5 0,0.5 c 0,1.5 -1,3 -2,3.5 0.5,0.5 1,0.5 1.5,0.5 l 13.75,0 2,-4 -13.75,0 c -0.5,0 -1,0 -1.5,-0.5 z"
+     id="path3313"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccscsssssscsssssscscsscsccsscscscsccscscsccsc" />
+  <path
+     id="path3315"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 65,128 4,0 0,6 6,0 0,4 -6,0 0,16 c 0,0 0,2 2,2 l 7,0 -2,4 -7,0 c -2,0 -4,-2 -4,-4 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccsccssc" />
+  <path
+     id="path3317"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 214,128 4,0 0,6 6,0 0,4 -6,0 0,16 c 0,0 0,2 2,2 l 7,0 -1.5,4 -7.5,0 c -2,0 -4,-2 -4,-4 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccsccssc" />
+  <path
+     d="m 59,138 0,22 -4,0 0,-22 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3319"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 31,192 c 0,0 3.25,0 5,0 1,0 1,-1 1,-1 0,-8 0,1 0,-7 0,0 0,-1 -1,-1 -1.75,0 -5,0 -5,0 z m -2,-16 2,0 0,5 c 0,0 4.25,0 6,0 1,0 2,1 2,2 0,10 0,-1 0,9 0,1 -1,2 -2,2 -3,0 -8,0 -8,0 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3321"
+     sodipodi:nodetypes="csccscccccsssscc" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 44,179 0,2 -2,0 0,-2 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3323"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     sodipodi:nodetypes="ccsccsssssccsccsssssc"
+     inkscape:connector-curvature="0"
+     d="m 76,194 1,-2 c 2,0 3.75,0 6,0 1,0 1,-1 1,-1 l 0,-2 c 0,0 0,-1 -1,-1 -3,0 -1.75,0 -5,0 -1,0 -2,-1 -2,-2 l 0,-3 c 0,-1 1,-2 2,-2 1.5,0 4,0 6,0 l 1,2 c -3,0 -3.75,0 -6,0 -1,0 -1,1 -1,1 l 0,1 c 0,0 0,1 1,1 3,0 2,0 5,0 1,0 2,1 2,2 l 0,4 c 0,1 -1,2 -2,2 -2.25,0 -6,0 -8,0 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3325" />
+  <path
+     sodipodi:nodetypes="csssscccssccc"
+     inkscape:connector-curvature="0"
+     d="m 139,194 c 0,0 -3,0 -5,0 -1,0 -2,-1 -2,-2 0,-2 0,-5.25 0,-9 0,-1 1,-2 2,-2 2,0 5,0 5,0 l 1,2 -5,0 c 0,0 -1,0 -1,1 0,2.75 0,5.25 0,7 0,1 1,1 1,1 l 5,0 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3327" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     id="path3329"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 129,179 0,2 -2,0 0,-2 z" />
+  <path
+     sodipodi:nodetypes="ccccc"
+     inkscape:connector-curvature="0"
+     d="m 129,183 0,11 -2,0 0,-11 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3331" />
+  <path
+     sodipodi:nodetypes="ccccscccssccc"
+     inkscape:connector-curvature="0"
+     id="path3333"
+     d="m 96,176 0,18 c 1.5,0 2,0 2,0 0,-6.25 0,-4.75 0,-11 l 4,0 c 1,0 1,1 1,1 0,6 0,4 0,10 l 2,0 c 0,-6 0,-5 0,-11 0,-1 -1,-2 -2,-2 -1.75,0 -2,0 -5,0 l 0,-5 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'" />
+  <path
+     sodipodi:nodetypes="sscccsccsssssccssccc"
+     inkscape:connector-curvature="0"
+     d="m 115,181 c 1,0 2,1 2,2 0,1.75 0,5 0,5 l -8,0 0,3 c 0,0 0,1 1,1 0.75,0 7,0 7,0 l -1,2 c 0,0 -5,0 -7,0 -1,0 -2,-1 -2,-2 l 0,-9 c 0,-1 1,-2 2,-2 4,0 3,0 6,0 z m 0,5 0,-2 c 0,0 0,-1 -1,-1 -2,0 -2,0 -4,0 -1,0 -1,1 -1,1 l 0,2 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3337" />
+  <path
+     id="path4171"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 142,194 1,-2 c 2,0 3.75,0 6,0 1,0 1,-1 1,-1 l 0,-2 c 0,0 0,-1 -1,-1 -3,0 -1.75,0 -5,0 -1,0 -2,-1 -2,-2 l 0,-3 c 0,-1 1,-2 2,-2 1.5,0 4,0 6,0 l 1,2 c -3,0 -3.75,0 -6,0 -1,0 -1,1 -1,1 l 0,1 c 0,0 0,1 1,1 3,0 2,0 5,0 1,0 2,1 2,2 l 0,4 c 0,1 -1,2 -2,2 -2.25,0 -6,0 -8,0 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccsccsssssccsccsssssc" />
+  <path
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 56,181 1,2 6,0 c 0,0 1,0 1,1 0,0.66667 0,1.33333 0,2 l -7,0 c -1,0 -2,1 -2,2 l 0,4 c 0,1 1,2 2,2 l 7,0 c 0.351103,0 0.692179,-0.14049 1,-0.34375 0.307821,0.20326 0.648897,0.34375 1,0.34375 3.006427,0 3.896359,0 7,0 l 1,-2 c -2.871497,0 -4.315047,0 -7,0 0,0 -1,0 -1,-1 0,-1 0,-2 0,-3 l 6,0 c 1,0 2,-1 2,-2 0,-1 0,-2 0,-3 0,-1 -1,-2 -2,-2 -2.583333,0 -3.416667,0 -6,0 -0.351103,0 -0.692179,0.14049 -1,0.34375 C 64.692179,181.14049 64.351103,181 64,181 z m 10.84375,2 C 66.9375,182.98438 67,183 67,183 c 1.916667,0 2.083333,0 4,0 1,0 1,1 1,1 l 0,1 c 0,1 -1,1 -1,1 l -5,0 c 0,-0.66667 0,-1.33333 0,-2 0,-0.75 0.5625,-0.95312 0.84375,-1 z M 58,188 l 6,0 c 0,0.91667 0,1.83333 0,2.75 0,1.25 -1,1.25 -1,1.25 l -5,0 c -1,0 -1,-1 -1,-1 l 0,-2 c 0,0 0,-1 1,-1 z"
+     id="path3341"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccssssscccccccscccccscccccsccccscccsccs" />
+  <path
+     sodipodi:nodetypes="cccccccsccssc"
+     inkscape:connector-curvature="0"
+     d="m 119,178 2,0 0,3 3,0 0,2 -3,0 0,8 c 0,0 0,1 1,1 l 2.875,0 -0.75,2 -3.125,0 c -1,0 -2,-1 -2,-2 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3345" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3347"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 44,183 0,11 -2,0 0,-11 z"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path4173"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 88,178 2,0 0,3 3,0 0,2 -3,0 0,8 c 0,0 0,1 1,1 l 2.875,0 -0.75,2 -3.125,0 c -1,0 -2,-1 -2,-2 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccsccssc" />
+  <path
+     sodipodi:nodetypes="cccccccsccssc"
+     inkscape:connector-curvature="0"
+     d="m 47,178 2,0 0,3 3,0 0,2 -3,0 0,8 c 0,0 0,1 1,1 l 2.875,0 -0.75,2 -3.125,0 c -1,0 -2,-1 -2,-2 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path4175" />
+  <path
+     id="path4177"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 30,215 c 0,0 1.625,0 2.5,0 0.5,0 0.5,-0.5 0.5,-0.5 0,-4 0,1 0,-3 0,0 0,-0.5 -0.5,-0.5 -0.875,0 -2.5,0 -2.5,0 z m -1,-8 1,0 0,3 c 0,0 2.125,0 3,0 0.5,0 1,0.5 1,1 0,5 0,-1 0,4 0,0.5 -0.5,1 -1,1 -1.5,0 -4,0 -4,0 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csccscccccsssscc" />
+  <path
+     id="path4179"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 36,209 0,1 -1,0 0,-1 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path4181"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 51,216 0,-1 c 1,0 2.375,0 3.5,0 0.5,0 0.5,-0.5 0.5,-0.5 l 0,-1 c 0,0 0,-0.5 -0.5,-0.5 -1.5,0 -0.875,0 -2.5,0 -0.5,0 -1,-0.5 -1,-1 l 0,-1 c 0,-0.5 0.5,-1 1,-1 0.75,0 2,0 3,0 l 0,1 c -1.5,0 -1.375,0 -2.5,0 -0.5,0 -0.5,0.5 -0.5,0.5 l 0,0 c 0,0 0,0.5 0.5,0.5 1.5,0 1,0 2.5,0 0.5,0 1,0.5 1,1 l 0,2 c 0,0.5 -0.5,1 -1,1 -1.125,0 -3,0 -4,0 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccsccsssssccsccsssssc" />
+  <path
+     id="path4183"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 82,216 c 0,0 -2,0 -3,0 -0.5,0 -1,-0.5 -1,-1 0,-1 0,-2.125 0,-4 0,-0.5 0.5,-1 1,-1 1,0 3,0 3,0 l 0,1 -2.5,0 c 0,0 -0.5,0 -0.5,0.5 0,1.375 0,2.125 0,3 0,0.5 0.5,0.5 0.5,0.5 l 2.5,0 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="csssscccssccc" />
+  <path
+     d="m 77,209 0,1 -1,0 0,-1 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path4185"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path4187"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 77,211 0,5 -1,0 0,-5 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 61,207 0,9 c 0.75,0 1,0 1,0 0,-3.125 0,-1.875 0,-5 l 1.5,0 c 0.5,0 0.5,0.5 0.5,0.5 0,3 0,1.5 0,4.5 l 1,0 c 0,-3 0,-2 0,-5 0,-0.5 -0.5,-1 -1,-1 -0.875,0 -0.5,0 -2,0 l 0,-3 z"
+     id="path4189"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccscccssccc" />
+  <path
+     id="path4191"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 70,210 c 0.5,0 1,0.5 1,1 0,0.875 0,2 0,2 l -4,0 0,1.5 c 0,0 0,0.5 0.5,0.5 0.375,0 3.5,0 3.5,0 l 0,1 c 0,0 -3,0 -4,0 -0.5,0 -1,-0.5 -1,-1 l 0,-4 c 0,-0.5 0.5,-1 1,-1 2,0 1.5,0 3,0 z m 0,2 0,-0.5 c 0,0 0,-0.5 -0.5,-0.5 -1,0 -1,0 -2,0 -0.5,0 -0.5,0.5 -0.5,0.5 l 0,0.5 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sscccsccsssssccssccc" />
+  <path
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 42,210 0,1 2.5,0 c 0,0 0.5,0 0.5,0.5 l 0,0.5 -3,0 c -0.5,0 -1,0.5 -1,1 l 0,2 c 0,0.5 0.5,1 1,1 l 3,0 c 0.175551,0 0.346089,-0.0858 0.5,-0.1875 C 45.653911,215.91413 45.824449,216 46,216 l 3.5,0 0,-1 -3,0 c 0,0 -0.5,0 -0.5,-0.5 l 0,-1.5 c 1,0 2,0 3,0 0.5,0 1,-0.5 1,-1 l 0,-1 c 0,-0.5 -0.5,-1 -1,-1 l -3,0 c -0.175551,0 -0.346089,0.0546 -0.5,0.15625 C 45.346089,210.05462 45.175551,210 45,210 z m 4.40625,1 c 0.696794,-0.002 1.396222,0 2.09375,0 0.5,0 0.5,0.5 0.5,0.5 0,0 0,0.5 -0.5,0.5 -0.833333,0 -1.666667,0 -2.5,0 l 0,-0.5 c 0,-0.375 0.265625,-0.47656 0.40625,-0.5 z m -3.90625,2 2.5,0 0,1.375 C 45,215 44.5,215 44.5,215 l -2,0 C 42,215 42,214.5 42,214.5 l 0,-1 c 0,0 0,-0.5 0.5,-0.5 z"
+     id="path4195"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccscssssscscccsccsssscsccccccscscscsccs" />
+  <path
+     d="m 36,211 0,5 -1,0 0,-5 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path4199"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ccccc" />
+  <path
+     id="path4203"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 37,208 1,0 0,2 2,0 0,1 -2,0 0,3.5 c 0,0 0,0.5 0.5,0.5 l 1.5,0 0,1 -2,0 c -0.5,0 -1,-0.5 -1,-1 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccsccssc" />
+  <path
+     sodipodi:nodetypes="cccccccsccssc"
+     inkscape:connector-curvature="0"
+     d="m 57,208 1,0 0,2 2,0 0,1 -2,0 0,3.5 c 0,0 0,0.5 0.5,0.5 l 1.5,0 0,1 -2,0 c -0.5,0 -1,-0.5 -1,-1 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path4212" />
+  <path
+     id="path4214"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 72,208 1,0 0,2 2,0 0,1 -2,0 0,3.5 c 0,0 0,0.5 0.5,0.5 l 1.5,0 0,1 -2,0 c -0.5,0 -1,-0.5 -1,-1 z"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccsccssc" />
+  <path
+     sodipodi:nodetypes="ccsccsssssccsccsssssc"
+     inkscape:connector-curvature="0"
+     d="m 83,216 0,-1 c 1,0 2.375,0 3.5,0 0.5,0 0.5,-0.5 0.5,-0.5 l 0,-1 c 0,0 0,-0.5 -0.5,-0.5 -1.5,0 -0.875,0 -2.5,0 -0.5,0 -1,-0.5 -1,-1 l 0,-1 c 0,-0.5 0.5,-1 1,-1 0.75,0 2,0 3,0 l 0,1 c -1.5,0 -1.375,0 -2.5,0 -0.5,0 -0.5,0.5 -0.5,0.5 l 0,0 c 0,0 0,0.5 0.5,0.5 1.5,0 1,0 2.5,0 0.5,0 1,0.5 1,1 l 0,2 c 0,0.5 -0.5,1 -1,1 -1.125,0 -3,0 -4,0 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path4216" />
 </svg>
