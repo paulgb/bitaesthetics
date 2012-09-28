@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -9,60 +7,37 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="744.09448819"
-   height="1052.3622047"
-   id="svg3238"
+   width="800"
+   height="1050"
    version="1.1"
+   id="svg3255"
    inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="logo.v2.svg">
   <defs
-     id="defs3240">
-    <linearGradient
-       id="linearGradient3979">
-      <stop
-         style="stop-color:#2b7688;stop-opacity:1;"
-         offset="0"
-         id="stop3981" />
-      <stop
-         style="stop-color:#000000;stop-opacity:1;"
-         offset="1"
-         id="stop3983" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4000">
-      <stop
-         style="stop-color:#2b7688;stop-opacity:1;"
-         offset="0"
-         id="stop4002" />
-      <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
-         offset="1"
-         id="stop4004" />
-    </linearGradient>
-  </defs>
+     id="defs3275" />
   <sodipodi:namedview
-     id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="356.49736"
-     inkscape:cy="970"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
      inkscape:window-width="1301"
      inkscape:window-height="744"
+     id="namedview3273"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="299.45116"
+     inkscape:cy="989.61028"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="1"
-     showguides="true"
-     inkscape:guide-bbox="true">
+     inkscape:current-layer="svg3255">
     <inkscape:grid
        type="xygrid"
-       id="grid3302" />
+       id="grid3291" />
   </sodipodi:namedview>
   <metadata
      id="metadata3243">
@@ -76,259 +51,74 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path3952"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 37,94.362171 c 0,0 13.22917,0 20,0 4,0 4,-4 4,-4 0,-32 0,4 0,-28 0,0 0,-4 -4,-4 -7.50004,0 -20,0 -20,0 z m -8,-64 8,0 0,20 c 0,0 16.91669,0 24,0 4,0 8,4 8,8 0,40 0,-4 0,36 0,4 -4,8 -8,8 -11.77088,0 -32,0 -32,0 z"
-       sodipodi:nodetypes="csccscccccsccscc"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3954"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 89,42.362173 0,8 -8,0 0,-8 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3956"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 223,102.36218 4,-8 c 8.305,0.1832 17.1979,0 26,0 4,0 4,-4 4,-4 l 0,-9 c 0,0 0,-4.01876 -4,-4 -12,0 -8.6783,0.046 -22,0 -3.7712,0 -8,-4 -8,-8 l 0,-11 c 0,-4 4.0001,-7.999997 8,-7.999997 6.0001,0 18.0001,0 26,0 l 4,7.999997 c -12,0 -17.2496,0 -26,0 -4,0 -4,4 -4,4 l 0,3 c 0,0 0,4 4,4 12,0 10,0 22,0 4,-0.1876 8,4 8,8 l 0,17 c 0,4 -4,8 -8,8 -8.8021,0 -26,0 -34,0 z"
-       sodipodi:nodetypes="cccccccccccccccccccccc"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3958"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 482,102.3429 c 0,0 -14.1872,0 -22,0 -4,0 -8,-4 -8,-8 0,-8 0,-20.63456 0,-36 0,-4 4,-8 8,-8 8,0 22,0 22,0 l 4,8 -22,0 c 0,0 -4,0.2288 -4,4 0,10.64925 0,21.36713 0,28 0,3.77124 4,4 4,4 l 22,0 z"
-       sodipodi:nodetypes="csscccccccccc"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       sodipodi:nodetypes="ccccc"
-       d="m 441,42.349308 0,8 -8,0 0,-8 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3960"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3962"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 441,58.349298 0,44 -8,0 0,-44 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 306,30.342708 0,72 c 6,0 8,0 8,0 0,-25.333332 0,-18.615412 0,-43.948742 l 16,-0.0513 c 4,-0.0128 4,4.05128 4,4.05128 0,24.01153 0,15.73993 0,39.948742 l 8,0 c 0,-24 0,-20.017092 0,-44 0,-4 -4,-8 -8,-8 -7.0834,0 -8,0.0516 -20,0.0516 l 0,-20.05139 z"
-       id="path3964"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccscccssccc"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       sodipodi:nodetypes="ccccccccccssc"
-       d="m 273,38.342868 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -3,8 -15,0 c -4,0 -8,-4 -8,-8 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3966"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3968"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 383,50.342878 c 4,0 8,4 8,8 0.0514,7.3109 0,19 0,19 l -33,0 0,13 c 0,0 0,4 4,4 3,-0 29,0 29,0 l -4,8 c 0,0 -21,0 -29,0 -4,0 -8,-4 -8,-8 l 0,-36 c 0,-3.77124 4.2288,-8 8,-8 16.0542,0 13.4528,0 25,0 z M 383,69.349318 l 0,-7 c 0,0 0,-4 -4,-4 -7.9692,0 -9,0 -17,0 -4,0 -4,4 -4,4 l 0,7 z"
-       sodipodi:nodetypes="cccccsccsscccccsscccc"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       sodipodi:nodetypes="cccccccccccccccccccccc"
-       d="m 495,102.36218 4,-8 c 8.305,0.1832 17.1979,0 26,0 4,0 4,-4 4,-4 l 0,-9 c 0,0 0,-4.01876 -4,-4 -12,0 -8.6783,0.046 -22,0 -3.7712,0 -8,-4 -8,-8 l 0,-11 c 0,-4 4.0001,-7.999997 8,-7.999997 6.0001,0 18.0001,0 26,0 l 4,7.999997 c -12,0 -17.2496,0 -26,0 -4,0 -4,4 -4,4 l 0,3 c 0,0 0,4 4,4 12,0 10,0 22,0 4,-0.1876 8,4 8,8 l 0,17 c 0,4 -4,8 -8,8 -8.8021,0 -26,0 -34,0 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3025"
-       inkscape:connector-curvature="0" />
-    <path
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 140,50.362138 4,8 25,0 c 0,0 4,0 4,4 0,4.17392 0,2.77936 0,7 l -29,0 c -3.6325,0 -8,4 -8,8 l 0,17 c 0,4 4,8 8,8 8.5,0 20.125,0 29,0 4,0 8,-4 8,-8 0,-5.6667 0,-9.5873 0,-17 0,0 15.3333,0 26,0 4,0 8,-4 8,-8 0,-3 0,-4.72 0,-7 l 0,-4 c 0,-4 -4,-8 -8,-8 l -26,0 c -1.1447,0 -2.3395,0.38315 -3.4375,1.03125 2.5111,1.4407 4.4375,4.19645 4.4375,6.96875 l 0,1.21875 c 0.5877,-0.6875 1.5238,-1.21875 3,-1.21875 l 18,0 c 4,0 4,4 4,4 l 0,3 c 0,4 -4,4 -4,4 l -22,0 0,-11 c 0,-4 -4,-8 -8,-8 l -33,0 z m 8,27 25,0 c 0,4.39257 0,8.57665 0,12.5 0,4.5002 -4,4.5 -4,4.5 l -21,0 c -4,0 -4,-4 -4,-4 l 0,-9 c 0,0 0,-4 4,-4 z m 34,15.78125 0,1.21875 c 0,2.7946 -1.9592,5.5695 -4.5,7 1.0959,0.617 2.2946,1 3.5,1 l 30,0 4,-8 -30,0 c -1.4762,0 -2.4123,-0.53125 -3,-1.21875 z"
-       id="path3972"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:connector-curvature="0"
-       id="path3976"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 102,38.362183 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -4,8 -14,0 c -4,0 -8,-4 -8,-8 z"
-       sodipodi:nodetypes="ccccccccccssc" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:connector-curvature="0"
-       id="path3978"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 399,38.342868 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -3,8 -15,0 c -4,0 -8,-4 -8,-8 z"
-       sodipodi:nodetypes="ccccccccccssc" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       sodipodi:nodetypes="ccccc"
-       d="m 89,58.362161 0,44 -8,0 0,-44 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3980"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       sodipodi:nodetypes="csccscccccsccscc"
-       d="m 37,184.35575 c 0,0 13.22917,0 20,0 4,0 4,-4 4,-4 0,-32 0,4 0,-28 0,0 0,-4 -4,-4 -7.50004,0 -20,0 -20,0 z m -8,-64 8.20312,0 -0.2032,20 c 0,0 16.91669,0 24,0 4,0 8,4 8,8 0,40 0,-4 0,36 0,4 -4,8 -8,8 -11.77088,0 -32,0 -32,0 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b34e28;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3785"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       sodipodi:nodetypes="ccccc"
-       d="m 89,132.35573 0,8 -8,0 0,-8 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b34e28;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3787"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       sodipodi:nodetypes="csscccccccccc"
-       d="m 482,192.35576 c 0,0 -14.1872,0 -22,0 -4,0 -8,-4 -8,-8 0,-8 0,-20.63456 0,-36 0,-4 4,-8 8,-8 8,0 22,0 22,0 l 4,8 -22,0 c 0,0 -4,0.2288 -4,4 0,10.64925 0,21.36713 0,28 0,3.77124 4,4 4,4 l 22,0 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4aeb4;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3791"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3793"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4aeb4;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 441,132.36217 0,8 -8,0 0,-8 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       sodipodi:nodetypes="ccccc"
-       d="m 441,148.36216 0,44 -8,0 0,-44 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4aeb4;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3795"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       sodipodi:nodetypes="ccccscccssccc"
-       inkscape:connector-curvature="0"
-       id="path3797"
-       d="m 306,120.35557 0,72 c 6,0 8,0 8,0 0,-25.33333 0,-18.61541 0,-43.94874 l 16,-0.0513 c 4,-0.0128 4,4.05128 4,4.05128 0,24.01153 0,15.73993 0,39.94874 l 8,0 c 0,-24 0,-20.01709 0,-44 0,-4 -4,-8 -8,-8 -7.0834,0 -8,0.0516 -20,0.0516 l 0,-20.05139 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4aeb4;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:connector-curvature="0"
-       id="path3799"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4aeb4;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 273,128.35573 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -3,8 -15,0 c -4,0 -8,-4 -8,-8 z"
-       sodipodi:nodetypes="ccccccccccssc" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       sodipodi:nodetypes="cccccsccsscccccsscccc"
-       d="m 383,140.35574 c 4,0 8,4 8,8 0.0514,7.3109 0,19 0,19 l -33,0 0,13 c 0,0 0,4 4,4 3,-0 29,0 29,0 l -4,8 c 0,0 -21,0 -29,0 -4,0 -8,-4 -8,-8 l 0,-36 c 0,-3.77124 4.2288,-8 8,-8 16.0542,0 13.4528,0 25,0 z M 383,159.36218 l 0,-7 c 0,0 0,-4 -4,-4 -7.9692,0 -9,0 -17,0 -4,0 -4,4 -4,4 l 0,7 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4aeb4;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3801"
-       inkscape:connector-curvature="0" />
-    <path
-       id="path3805"
-       d="m 140,140.375 4,8 25,0 c 0,0 4,0 4,4 0,4.17392 0,2.77936 0,7 l -29,0 c -3.6325,0 -8,4 -8,8 l 0,17 c 0,4 4,8 8,8 8.5,0 20.125,0 29,0 4,0 8,-4 8,-8 0,-5.6667 0,-9.5873 0,-17 0,0 15.3333,0 26,0 4,0 8,-4 8,-8 0,-3 0,-4.72 0,-7 l 0,-4 c 0,-4 -4,-8 -8,-8 l -26,0 c -1.1447,0 -2.3395,0.38315 -3.4375,1.03125 2.5111,1.4407 4.4375,4.19645 4.4375,6.96875 l 0,1.21875 c 0.5877,-0.6875 1.5238,-1.21875 3,-1.21875 l 18,0 c 4,0 4,4 4,4 l 0,3 c 0,4 -4,4 -4,4 l -22,0 0,-11 c 0,-4 -4,-8 -8,-8 l -33,0 z m 8,27 25,0 c 0,4.39257 0,8.57665 0,12.5 0,4.5002 -4,4.5 -4,4.5 l -21,0 c -4,0 -4,-4 -4,-4 l 0,-9 c 0,0 0,-4 4,-4 z m 34,15.78125 0,1.21875 c 0,2.7946 -1.9592,5.5695 -4.5,7 1.0959,0.617 2.2946,1 3.5,1 l 30,0 4,-8 -30,0 c -1.4762,0 -2.4123,-0.53125 -3,-1.21875 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4aeb4;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       sodipodi:nodetypes="ccccccccccssc"
-       d="m 102,128.35573 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -4,8 -14,0 c -4,0 -8,-4 -8,-8 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b34e28;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3807"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       sodipodi:nodetypes="ccccccccccssc"
-       d="m 399,128.35573 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -3,8 -15,0 c -4,0 -8,-4 -8,-8 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4aeb4;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3809"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3811"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b34e28;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 89,148.35574 0,44 -8,0 0,-44 z"
-       sodipodi:nodetypes="ccccc"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-    <path
-       inkscape:export-ydpi="500"
-       inkscape:export-xdpi="500"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       sodipodi:nodetypes="cccccccccccccccccccccc"
-       d="m 223,192.36218 4,-8 c 8.305,0.1832 17.1979,0 26,0 4,0 4,-4 4,-4 l 0,-9 c 0,0 0,-4.01876 -4,-4 -12,0 -8.6783,0.046 -22,0 -3.7712,0 -8,-4 -8,-8 l 0,-11 c 0,-4 4.0001,-8 8,-8 6.0001,0 18.0001,0 26,0 l 4,8 c -12,0 -17.2496,0 -26,0 -4,0 -4,4 -4,4 l 0,3 c 0,0 0,4 4,4 12,0 10,0 22,0 4,-0.1876 8,4 8,8 l 0,17 c 0,4 -4,8 -8,8 -8.8021,0 -26,0 -34,0 z"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4adb4;fill-opacity:0.87058824;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       id="path3026"
-       inkscape:connector-curvature="0" />
-    <path
-       inkscape:connector-curvature="0"
-       id="path3028"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b4adb4;fill-opacity:0.87058824;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
-       d="m 495,192.36218 4,-8 c 8.305,0.1832 17.1979,0 26,0 4,0 4,-4 4,-4 l 0,-9 c 0,0 0,-4.01876 -4,-4 -12,0 -8.6783,0.046 -22,0 -3.7712,0 -8,-4 -8,-8 l 0,-11 c 0,-4 4.0001,-8 8,-8 6.0001,0 18.0001,0 26,0 l 4,8 c -12,0 -17.2496,0 -26,0 -4,0 -4,4 -4,4 l 0,3 c 0,0 0,4 4,4 12,0 10,0 22,0 4,-0.1876 8,4 8,8 l 0,17 c 0,4 -4,8 -8,8 -8.8021,0 -26,0 -34,0 z"
-       sodipodi:nodetypes="cccccccccccccccccccccc"
-       inkscape:export-filename="C:\Users\paul\bitaesthetics\logo_small1.png"
-       inkscape:export-xdpi="500"
-       inkscape:export-ydpi="500" />
-  </g>
+  <path
+     inkscape:connector-curvature="0"
+     d="m 37,94 c 0,0 13,0 20,0 4,0 4,-4 4,-4 0,-32 0,4 0,-28 0,0 0,-4 -4,-4 -7,0 -20,0 -20,0 z m -8,-64 8,0 0,20 c 0,0 17,0 24,0 4,0 8,4 8,8 0,40 0,-4 0,36 0,4 -4,8 -8,8 -12,0 -32,0 -32,0 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3952" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 89,42 0,8 -8,0 0,-8 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3954" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 223,102 4,-8 c 8,0 17,0 26,0 4,0 4,-4 4,-4 l 0,-9 c 0,0 0,-4 -4,-4 -12,0 -9,0 -22,0 -4,0 -8,-4 -8,-8 l 0,-11 c 0,-4 4,-8 8,-8 6,0 18,0 26,0 l 4,8 c -12,0 -17,0 -26,0 -4,0 -4,4 -4,4 l 0,3 c 0,0 0,4 4,4 12,0 10,0 22,0 4,0 8,4 8,8 l 0,17 c 0,4 -4,8 -8,8 -9,0 -26,0 -34,0 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3956" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 482,102 c 0,0 -14,0 -22,0 -4,0 -8,-4 -8,-8 0,-8 0,-21 0,-36 0,-4 4,-8 8,-8 8,0 22,0 22,0 l 4,8 -22,0 c 0,0 -4,0 -4,4 0,11 0,21 0,28 0,4 4,4 4,4 l 22,0 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3958" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3960"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 441,42 0,8 -8,0 0,-8 z" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 441,58 0,44 -8,0 0,-44 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3962" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3964"
+     d="m 306,30 0,72 c 6,0 8,0 8,0 0,-25 0,-19 0,-44 l 16,0 c 4,0 4,4 4,4 0,24 0,16 0,40 l 8,0 c 0,-24 0,-20 0,-44 0,-4 -4,-8 -8,-8 -7,0 -8,0 -20,0 l 0,-20 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3966"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 273,38 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -3,8 -15,0 c -4,0 -8,-4 -8,-8 z" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 383,50 c 4,0 8,4 8,8 0,7 0,19 0,19 l -33,0 0,13 c 0,0 0,4 4,4 3,0 29,0 29,0 l -4,8 c 0,0 -21,0 -29,0 -4,0 -8,-4 -8,-8 l 0,-36 c 0,-4 4,-8 8,-8 16,0 13,0 25,0 z m 0,19 0,-7 c 0,0 0,-4 -4,-4 -8,0 -9,0 -17,0 -4,0 -4,4 -4,4 l 0,7 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3968" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3025"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 495,102 4,-8 c 8,0 17,0 26,0 4,0 4,-4 4,-4 l 0,-9 c 0,0 0,-4 -4,-4 -12,0 -9,0 -22,0 -4,0 -8,-4 -8,-8 l 0,-11 c 0,-4 4,-8 8,-8 6,0 18,0 26,0 l 4,8 c -12,0 -17,0 -26,0 -4,0 -4,4 -4,4 l 0,3 c 0,0 0,4 4,4 12,0 10,0 22,0 4,0 8,4 8,8 l 0,17 c 0,4 -4,8 -8,8 -9,0 -26,0 -34,0 z" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3972"
+     d="m 140,50 4,8 25,0 c 0,0 4,0 4,4 0,4 0,3 0,7 l -29,0 c -4,0 -8,4 -8,8 l 0,17 c 0,4 4,8 8,8 8,0 20,0 29,0 4,0 8,-4 8,-8 0,-6 0,-10 0,-17 0,0 15,0 26,0 4,0 8,-4 8,-8 0,-3 0,-5 0,-7 l 0,-4 c 0,-4 -4,-8 -8,-8 l -26,0 c -1,0 -2,0 -3,1 3,1 4,4 4,7 l 0,1 c 1,-1 2,-1 3,-1 l 18,0 c 4,0 4,4 4,4 l 0,3 c 0,4 -4,4 -4,4 l -22,0 0,-11 c 0,-4 -4,-8 -8,-8 l -33,0 z m 8,27 25,0 c 0,4 0,9 0,12 0,5 -4,5 -4,5 l -21,0 c -4,0 -4,-4 -4,-4 l 0,-9 c 0,0 0,-4 4,-4 z m 34,16 0,1 c 0,3 -2,6 -4,7 1,1 2,1 3,1 l 30,0 4,-8 -30,0 c -1,0 -2,0 -3,-1 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 102,38 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -4,8 -14,0 c -4,0 -8,-4 -8,-8 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3976" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 399,38 8,0 0,12 13,0 0,8 -13,0 0,32 c 0,0 0,4 4,4 l 14,0 -3,8 -15,0 c -4,0 -8,-4 -8,-8 z"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#b7b69a;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     id="path3978" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path3980"
+     style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#438f99;fill-opacity:1;stroke:none;font-family:Sansation Light;-inkscape-font-specification:'Sansation Light, Light'"
+     d="m 89,58 0,44 -8,0 0,-44 z" />
 </svg>
