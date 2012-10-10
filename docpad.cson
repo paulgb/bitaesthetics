@@ -1,0 +1,6 @@
+{
+    collections:
+        projects: (database) ->
+            database.findAllLive({type: 'project'})
+    reportErrors: false
+}

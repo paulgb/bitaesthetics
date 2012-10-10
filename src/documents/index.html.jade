@@ -1,0 +1,13 @@
+---
+layout: base
+---
+div
+    each project in getCollection('projects').toJSON()
+        div(class="project")
+            h2 #{project.name}
+            div(class="row container")
+                div(class='half')
+                    !{typeof(project.date)}
+                div(class='half rightalign')
+                    !{project.format}
+            p !{project.contentRendered}
