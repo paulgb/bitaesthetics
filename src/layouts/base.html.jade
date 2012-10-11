@@ -1,7 +1,10 @@
 doctype 5
 html(lang='en')
     head
-        title bitaesthetics &ndash; #{document.title}
+        title
+            | #{site.name}
+            if document.title
+                | &ndash; #{document.title}
         meta(charset='utf-8', content='width=device-width, initial-scale=1.0')
         link(rel='stylesheet', type='text/css', href='styles/base.css')
 
@@ -13,8 +16,12 @@ html(lang='en')
                         object(data='logo/logo-size2.svg', type='image/svg+xml', style='height: 36px; width: 254px;")
                     div#nav(class='half')
                         ul
-                            li
-                                a(href='#') projects
+                            each navlink in site.nav
+                                li
+                                    if navlink[0] == document.page
+                                        a(href='#', class='active') #{navlink[0]}
+                                    else
+                                        a(href='#') #{navlink[0]}
                     
                 !{content}
         
