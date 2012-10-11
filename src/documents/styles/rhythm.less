@@ -43,9 +43,13 @@
     margin-bottom: @rhythmic-unit * @units;
 }
 
-.rhythm-margin(@units-top: 1, @units-bottom: @units-top) {
+.rhythm-margin(@units-top, @units-bottom) {
     .rhythm-margin-top(@units-top);
     .rhythm-margin-bottom(@units-bottom);
+}
+
+.rhythm-margin(@units) {
+    .rhythm-margin(@units, @units);
 }
 
 .rhythm {

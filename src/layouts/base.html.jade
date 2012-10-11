@@ -6,22 +6,22 @@ html(lang='en')
             if document.title
                 | &ndash; #{document.title}
         meta(charset='utf-8', content='width=device-width, initial-scale=1.0')
-        link(rel='stylesheet', type='text/css', href='styles/base.css')
+        link(rel='stylesheet', type='text/css', href='/styles/base.css')
 
     body
         div#page(class='row')
             div(class='half centered')
-                div(class='row header container')
+                div(class='row header')
                     div#logodiv(class='half')
-                        object#logo(data='logo/logo-size2.svg', type='image/svg+xml', style='height: 36px; width: 254px;")
+                        object#logo(data='/logo/logo-size2.svg', type='image/svg+xml', style='height: 36px; width: 254px;")
                     div#nav(class='half')
                         ul
                             each navlink in site.nav
                                 li
                                     if navlink[0] == document.page
-                                        a(href='#', class='active') #{navlink[0]}
+                                        a(href=navlink[1], class='active') #{navlink[0]}
                                     else
-                                        a(href='#') #{navlink[0]}
+                                        a(href=navlink[1]) #{navlink[0]}
                     
                 !{content}
         
