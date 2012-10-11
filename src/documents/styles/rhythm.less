@@ -1,0 +1,78 @@
+
+// Rhythmless 0.2
+// Oct 11, 2012
+// Vertical Rhythm for LESS
+// http://paulgb.github.com/rhythmless/
+// (C) Paul Butler (MIT LICENSE)
+
+// global defaults, these can (and usually should) be overwritten by
+// the file that includes this
+@rhythmic-unit: 20px;
+@rhythmic-fontsize: 14px;
+
+
+.rhythm-pad(@padding, @split: 50%) {
+    padding-top: floor(@padding * (@split / 100));
+    padding-bottom: @padding - floor(@padding * (@split / 100));
+}
+
+.rhythm-height(@height, @sub: 0) {
+    height: @height;
+    .rhythm-pad(ceil((@height + @sub) / @rhythmic-unit) *
+        @rhythmic-unit - (@height + @sub));
+}
+
+.rhythm-height-pad-parent(@height, @padding) {
+    :first-child {
+        height: @height;
+    }
+    .rhythm-pad(
+        ceil((@height + @padding) / @rhythmic-unit) * @rhythmic-unit - @height);
+}
+
+.rhythm-text(@font-size) {
+    font-size: @font-size;
+    line-height: ceil(@font-size / @rhythmic-unit) * @rhythmic-unit;
+}
+
+.rhythm-margin-top(@units: 1) {
+    margin-top: @rhythmic-unit * @units;
+}
+
+.rhythm-margin-bottom(@units: 1) {
+    margin-bottom: @rhythmic-unit * @units;
+}
+
+.rhythm-margin(@units-top: 1, @units-bottom: @units-top) {
+    .rhythm-margin-top(@units-top);
+    .rhythm-margin-bottom(@units-bottom);
+}
+
+.rhythm {
+    .rhythm-text(@rhythmic-fontsize);
+
+    * {
+        margin-top: 0;
+        margin-bottom: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+}
+
+// a mixin that displays a bunch of horizontal horizontal lines
+// spaced according to the vertical rhythm unit (@rhythmic-unit)
+.rhythm-grid(@color: #ddd, @unit:@rhythmic-unit) {
+    @stop: 100% - 100% / @unit;
+    background: -webkit-gradient(
+        linear,
+        left top,
+        left bottom,
+        from(white),
+        color-stop(100% - 100% / @unit, white),
+        color-stop(100% - 100% / @unit, @color),
+        to(@color)
+    );
+    background: -moz-linear-gradient(top, white, white @stop, @color @stop,  @color);
+    background-size: auto @unit;
+}
+

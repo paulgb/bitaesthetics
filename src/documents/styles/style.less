@@ -1,66 +1,55 @@
 
+body {
+    font-family: SansationLight;
+    //.rhythm-grid();
+    .rhythm();
+}
+
+#logodiv {
+    .rhythm-height(36px, 1px);
+}
+
 h2 {
     font-family: SansationRegular;
     font-weight: normal;
-}
-
-.project {
-    margin-top: 50px;
-}
-
-#page {
-    margin-top: 16px;
+    color: @colorPrimary;
+    .rhythm-margin(1, 0);
+    .rhythm-text(20px);
 }
 
 .rightalign {
     text-align: right;
 }
 
-.logo-text-regular {
-    fill: @colorSecondary;
-}
-
-.logo-text-emphasized {
-    fill: @colorPrimary;
-}
-
 .big-image {
-    background-color: @colorPrimary;
-    height: 140px;
-    margin-bottom: 10px;
-    position: relative;
-    border-radius: 6px;
-    margin-left: -20px;
-    margin-right: -20px;
-    background-position: center center;
+    .rhythm-height-pad-parent(140px, 10px);
+    div {
+        background-color: @colorPrimary;
+        border-radius: 6px;
+        margin-left: -20px;
+        margin-right: -20px;
+        background-position: center center;
+    }
 }
 
 .header {
     border-bottom: 1px solid #ccc;
-    padding-bottom: 10px;
-}
-
-h2 {
-    color: @colorPrimary;
+    .rhythm-margin-top(1);
 }
 
 #nav {
-    position: relative;
-    height: 36px;
-    font-size: 1.2em;
-
     ul {
-        position: absolute;
         right: 0;
         bottom: 0;
-        margin-bottom: 0;
-        line-height: 0;
+        .rhythm-margin-top(1);
+        margin-bottom: -1px;
+        text-align: right;
+        .rhythm-text(16px);
     }
 
     li {
         list-style-type: none;
         display: inline;
-        line-height: 1.2em;
         margin-left: 16px;
 
         a.active {
