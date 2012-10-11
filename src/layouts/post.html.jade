@@ -1,6 +1,8 @@
 ---
 layout: base
+page: blog
 ---
-h1 #{document.title}
+h2 #{document.name}
+p #{formatDate(document.date, 'MMMM Do YYYY')}
 div
     !{content}

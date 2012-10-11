@@ -10,7 +10,7 @@ div
                 div(style='background-image: url(projects/#{project.slug}.png)')
             div(class='row container')
                 div(class='half')
-                    !{formatDate(project.date, 'MMMM YYYY')}
+                    | #{formatDate(project.date, 'MMMM YYYY')}
                 div(class='half rightalign')
-                    !{project.format}
+                    | #{project.format}
             !{project.contentRendered}

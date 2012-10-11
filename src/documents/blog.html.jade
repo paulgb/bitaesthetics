@@ -1,0 +1,11 @@
+---
+layout: base
+page: blog
+---
+div
+    each post in getCollection('posts').toJSON()
+        div
+            a(href=post.url)
+                h2 #{post.name}
+            p #{formatDate(post.date, 'MMMM Do YYYY')}
+            !{post.contentRenderedWithoutLayouts}
