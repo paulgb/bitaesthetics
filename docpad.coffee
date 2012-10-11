@@ -22,7 +22,7 @@ module.exports = {
                 {fullPath, outDirPath, basename, outExtension} = opts.file.attributes
                 outName = "#{outDirPath}/#{basename}-bg.#{outExtension}"
 
-                args = "-rotate -2 -colorspace Gray -normalize +level-colors black,#ff5555 #{fullPath} #{outName}"
+                args = "-rotate -2 -colorspace Gray -normalize +level-colors black,#ff3333 #{fullPath} #{outName}"
                 command = 'convert'
 
                 proc = spawn(command, args.split(' '))
