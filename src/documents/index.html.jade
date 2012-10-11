@@ -7,7 +7,7 @@ div
             h2 #{project.name}
             div(class="row container")
                 div(class='half')
-                    !{typeof(project.date)}
+                    !{formatDate(project.date, 'MMMM YYYY')}
                 div(class='half rightalign')
                     !{project.format}
             p !{project.contentRendered}
