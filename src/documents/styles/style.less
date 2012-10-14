@@ -11,11 +11,15 @@ body {
     .rhythm-height(36px, 1px);
 }
 
-h1 {
-    font-family: SansationRegular;
-    font-weight: normal;
-    color: @colorPrimary;
-    .rhythm-text(24px);
+#page {
+    margin: 0 30px;
+}
+
+img {
+    float: right;
+    padding: 2px;
+    border: 1px solid #DDD;
+    margin-left: 10px;
 }
 
 h2 {
@@ -24,6 +28,11 @@ h2 {
     color: @colorPrimary;
     .rhythm-margin(1, 0);
     .rhythm-text(20px);
+
+    a {
+        color: @colorPrimary;
+        display: block;
+    }
 }
 
 p {
@@ -36,7 +45,8 @@ p {
 
 .big-image {
     .rhythm-height-pad-parent(140px, 10px);
-    div {
+    a {
+        display: block;
         background-color: @colorPrimary;
         border-radius: 6px;
         margin-left: -20px;
@@ -78,5 +88,14 @@ p {
 
 a {
     text-decoration: none;
+    color: @colorAccent;
+
+    &:visited {
+        color: darken(@colorAccent, 10%);
+    }
+
+    &:hover {
+        color: desaturate(@colorAccent, 100%);
+    }
 }
 

@@ -5,7 +5,8 @@ page: blog
 div
     each post in getCollection('posts').toJSON()
         div
-            a(href=post.url)
-                h2 #{post.name}
+            h2
+                a(href=post.url)
+                    | #{post.name}
             p #{formatDate(post.date, 'MMMM Do YYYY')}
             !{post.contentRenderedWithoutLayouts}
