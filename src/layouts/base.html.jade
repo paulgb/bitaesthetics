@@ -14,7 +14,8 @@ html(lang='en')
             div(class='half centered')
                 div(class='row header')
                     div#logodiv(class='half')
-                        object#logo(data='/logo/logo-size2.svg', type='image/svg+xml', style='height: 36px; width: 254px;")
+                        a(href='/')
+                            object#logo(data='/logo/logo-size2.svg', type='image/svg+xml', style='height: 36px; width: 254px;")
                     div#nav(class='half')
                         ul
                             each navlink in site.nav

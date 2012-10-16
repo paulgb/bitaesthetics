@@ -10,7 +10,7 @@ module.exports = {
     templateData:
         site:
             name: 'bitaesthetics'
-            nav: [['projects', '/index.html']
+            nav: [['projects', '/']
                   ['blog', '/blog.html']
                   ['about', '/pages/about.html']]
         formatDate: (date, fmt) ->

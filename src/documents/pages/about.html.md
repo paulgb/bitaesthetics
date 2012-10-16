@@ -18,4 +18,4 @@ I like making images, animations, and interactive tools out of data. I'm best kn
 About this site
 ---
 
-This site is built with [docpad](https://github.com/bevry/docpad). Styled with [LESS](http://lesscss.org/) on the [Kube Framework](http://imperavi.com/kube/) and [rhythmless](http://paulgb.github.com/rhythmless/). The font you're reading is [sansation](http://www.dafont.com/sansation.font). Hosted on [Amazon S3](http://aws.amazon.com/s3/).
+This site is built with [docpad](https://github.com/bevry/docpad). Styled with [LESS](http://lesscss.org/) on the [Kube Framework](http://imperavi.com/kube/) and [rhythmless](http://paulgb.github.com/rhythmless/). The font you're reading is [sansation](http://www.dafont.com/sansation.font). Hosted on [Rackspace Cloud Files](http://www.rackspace.com/cloud/public/files/).
