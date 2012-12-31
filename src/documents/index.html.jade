@@ -12,7 +12,7 @@ div
                 a(href=project.link,style='background-image: url(projects/images/#{project.slug}.png)')
             div(class='row container')
                 div(class='half')
-                    | #{formatDate(project.date, 'MMMM YYYY')}
+                    | #{formatDate(project.date, 'MMMM, YYYY')}
                 div(class='half rightalign')
                     | #{project.format}
             !{project.contentRendered}

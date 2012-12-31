@@ -4,9 +4,9 @@ im = require 'imagemagick'
 module.exports = {
     collections:
         projects: (database) ->
-            database.findAllLive({type: 'project'})
+            database.findAllLive({type: 'project'}, {date: -1})
         posts: (database) ->
-            database.findAllLive({type: 'post'})
+            database.findAllLive({type: 'post'}, {date: -1})
     templateData:
         site:
             name: 'bitaesthetics'
@@ -24,7 +24,6 @@ module.exports = {
                 args = "-rotate -2 -colorspace Gray -normalize +level-colors black,#ff3311".split(' ')
 
                 im.convert args.concat([fullPath, '-']), (err, stdout) ->
-                  console.log 'err', err
                   opts.content = new Buffer(stdout, 'binary')
                   next()
 

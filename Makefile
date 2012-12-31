@@ -1,11 +1,10 @@
 
-publish :
-	./docpad generate
-	mkdir -p cloudmount
-	#cloudfuse cloudmount
-	cp -r out/* cloudmount/bitaesthetics/
-
-serve :
+build :
 	npm run-script build
+
+publish : build
+	cd out; cloudpush.py push
+
+serve : build
 	npm run-script serve
 
