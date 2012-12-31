@@ -1,5 +1,5 @@
 moment = require('moment')
-{spawn} = require('child_process')
+im = require 'imagemagick'
 
 module.exports = {
     collections:
@@ -20,16 +20,14 @@ module.exports = {
         render: (opts, next) ->
             if opts.inExtension == 'png' and opts.outExtension == 'png'
                 {fullPath, outDirPath, basename, outExtension} = opts.file.attributes
-                outName = "#{outDirPath}/#{basename}-bg.#{outExtension}"
 
-                args = "-rotate -2 -colorspace Gray -normalize +level-colors black,#ff3311 #{fullPath} #{outName}"
-                command = 'convert'
+                args = "-rotate -2 -colorspace Gray -normalize +level-colors black,#ff3311".split(' ')
 
-                proc = spawn(command, args.split(' '))
+                im.convert args.concat([fullPath, '-']), (err, stdout) ->
+                  console.log 'err', err
+                  opts.content = new Buffer(stdout, 'binary')
+                  next()
 
-                proc.on 'close', (code) ->
-                    next(code) if code
-                    next()
             else
                 next()
 

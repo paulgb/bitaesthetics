@@ -6,6 +6,6 @@ publish :
 	cp -r out/* cloudmount/bitaesthetics/
 
 serve :
-	./docpad generate
-	./docpad server
+	npm run-script build
+	npm run-script serve
 

@@ -2,11 +2,18 @@
   "name": "bitaesthetics",
   "version": "0.0.1",
   "main": "index.js",
+  "scripts": {
+    "build": "docpad generate",
+    "serve": "docpad server"
+  },
   "dependencies": {
-    "docpad-plugin-eco": "~2.0.1",
-    "docpad-plugin-marked": "~2.0.0",
-    "docpad": "~6.7.4",
-    "docpad-plugin-less": "~2.1.1",
+    "docpad-plugin-eco": "2.0.1",
+    "docpad-plugin-marked": "2.1.0",
+    "docpad": "6.20.1",
+    "docpad-plugin-less": "2.1.2",
+    "moment": "1.7.2",
+    "docpad-plugin-jade": "2.1.0",
+    "imagemagick": "0.1.3"
   },
   "devDependencies": {},
   "repository": "",
