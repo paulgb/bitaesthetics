@@ -10,7 +10,7 @@ body {
 
 div.header {
   background-color: black;
-  padding: 20px 0;
+  padding: 10px 0;
   margin-bottom: 30px;
 
   .head-inner {
@@ -22,7 +22,7 @@ div.header {
     position: absolute;
     right: 0;
     bottom: 0;
-    margin-bottom: 0;
+    margin-bottom: -7px;
 
     li {
       display: inline;

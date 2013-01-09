@@ -1,7 +1,7 @@
 ---
 type: project
 slug: nycbm
-name: New York City Place-of-Birth Map
+name: NYC Place-of-Birth Map
 date: December, 2012
 format: print
 link: "http://nycbm.bitaesthetics.com"

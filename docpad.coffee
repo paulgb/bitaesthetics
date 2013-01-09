@@ -1,5 +1,5 @@
 moment = require('moment')
-im = require 'imagemagick'
+{spawn} = require('child_process')
 
 module.exports = {
     collections:
@@ -21,10 +21,22 @@ module.exports = {
             if opts.inExtension == 'png' and opts.outExtension == 'png'
                 {fullPath} = opts.file.attributes
 
-                args = "-gravity Center -crop 1440x400+0+0 +repage".split(' ')
+                args = '-gravity Center -crop 1440x400+0+0 +repage'
 
-                im.convert args.concat([fullPath, '-']), (err, stdout) ->
-                  opts.content = new Buffer(stdout, 'binary')
+                cp = spawn('convert', args.split(' ').concat([fullPath, '-']))
+                chunks = []
+                size = 0
+                cp.stdout.on 'data', (chunk) ->
+                  chunks.push(chunk)
+                  size += chunk.length
+
+                cp.on 'close', ->
+                  buffer = new Buffer(size)
+                  i = 0
+                  for chunk in chunks
+                    chunk.copy buffer, i, 0, chunk.length
+                    i += chunk.length
+                  opts.content = buffer
                   next()
 
             else
