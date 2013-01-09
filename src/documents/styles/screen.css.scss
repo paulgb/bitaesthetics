@@ -1,0 +1,80 @@
+
+@import "compass/reset";
+@import "foundation";
+@import "_settings";
+@import "_mixins.scss";
+
+body {
+  background-color: #222 !important;
+}
+
+div.header {
+  background-color: black;
+  padding: 20px 0;
+  margin-bottom: 30px;
+
+  .head-inner {
+    margin: 0 20px;
+    position: relative;
+  }
+
+  ul.nav {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin-bottom: 0;
+
+    li {
+      display: inline;
+      font-size: 22px;
+      font-weight: bold;
+      margin-left: 10px;
+
+      a {
+        color: #ddd;
+      }
+    }
+  }
+}
+
+div.project {
+  position: relative;
+  margin-bottom: 40px;
+  overflow: hidden;
+
+  div.description {
+    position: absolute;
+    bottom: 20px;
+    right: 0px;
+    width: 40%;
+    color: white;
+    padding: 20px;
+    font-size: 16px;
+    background-color: rgba(0, 0, 0, 0.8);
+
+    p {
+      font-weight: bold;
+      text-decoration: 1px 1px black;
+
+      &:last-child {
+        margin-bottom: 0px;
+      }
+    }
+  }
+
+  h2 {
+    position: absolute;
+    background-color: rgba(0,0,0,0.6);
+    padding: 9px 21px 9px 30px;
+
+    a {
+      color: white;
+      @include text-outline(3px, black);
+    }
+  }
+
+  img {
+    width: 100%;
+  }
+}
+

@@ -1,0 +1,7 @@
+
+@import "_mixins.scss";
+
+.foo {
+  @include text-outline(2px, red);
+}
+

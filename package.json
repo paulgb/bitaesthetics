@@ -13,7 +13,8 @@
     "docpad-plugin-less": "2.1.2",
     "moment": "1.7.2",
     "docpad-plugin-jade": "2.1.0",
-    "imagemagick": "0.1.3"
+    "imagemagick": "0.1.3",
+    "docpad-plugin-sass": "~2.4.0"
   },
   "devDependencies": {},
   "repository": "",

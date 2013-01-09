@@ -1,29 +1,33 @@
 doctype 5
 html(lang='en')
-    head
-        title
-            | #{site.name}
-            if document.title
-                | &ndash; #{document.title}
-        meta(name='viewport', content='width=device-width')
-        meta(charset='utf-8')
-        link(rel='stylesheet', type='text/css', href='/styles/base.css')
+  head
+    meta(http-equiv='Content-Type', content='text/html; charset=UTF-8')
+    title
+        | #{site.name}
+        if document.title
+            | &ndash; #{document.title}
+    meta(name='viewport', content='width=device-width')
+    link(
+      href='/styles/screen.css',
+      rel='stylesheet',
+      type='text/css')
+    link(
+      href='/styles/app.css',
+      rel='stylesheet',
+      type='text/css')
 
-    body
-        div#page(class='row')
-            div(class='half centered')
-                div(class='row header')
-                    div#logodiv(class='half')
-                        a(href='/')
-                            object#logo(data='/logo/logo-size2.svg', type='image/svg+xml', style='height: 36px; width: 254px;")
-                    div#nav(class='half')
-                        ul
-                            each navlink in site.nav
-                                li
-                                    if navlink[0] == document.page
-                                        a(href=navlink[1], class='active') #{navlink[0]}
-                                    else
-                                        a(href=navlink[1]) #{navlink[0]}
-                    
-                !{content}
-        
+  body
+    div(class='header')
+      div(class='head-inner')
+        a(href='/')
+          img(src='/logo/logo-size2.svg')
+        ul(class='nav')
+          each navlink in site.nav
+            li
+              if navlink[0] == document.page
+                a(href=navlink[1], class='active') #{navlink[0]}
+              else
+                a(href=navlink[1]) #{navlink[0]}
+            
+    !{content}
+

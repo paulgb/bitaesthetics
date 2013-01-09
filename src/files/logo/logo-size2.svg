@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?xml-stylesheet type="text/css" href="../styles/logo.css" ?>
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -10,6 +8,18 @@
    width="254"
    height="36"
    version="1.1">
+    <defs>
+      <style type="text/css"><![CDATA[
+      .logo-text-emphasized {
+        fill: #ddd;
+      }
+
+      .logo-text-regular {
+        fill: #999;
+      }
+      ]]></style>
+    </defs>
+
     <g
        class="logo-text-emphasized">
       <path

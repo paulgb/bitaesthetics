@@ -5,6 +5,6 @@ build :
 publish : build
 	cd out; cloudpush.py push
 
-serve : build
+serve :
 	npm run-script serve
 
