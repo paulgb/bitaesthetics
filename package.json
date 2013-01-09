@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build": "docpad generate",
-    "serve": "docpad server"
+    "serve": "docpad run"
   },
   "dependencies": {
     "docpad-plugin-eco": "2.0.1",

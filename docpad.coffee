@@ -19,7 +19,7 @@ module.exports = {
     events:
         render: (opts, next) ->
             if opts.inExtension == 'png' and opts.outExtension == 'png'
-                {fullPath, outDirPath, basename, outExtension} = opts.file.attributes
+                {fullPath} = opts.file.attributes
 
                 args = "-rotate -2 -colorspace Gray -normalize +level-colors black,#ff3311".split(' ')
 
