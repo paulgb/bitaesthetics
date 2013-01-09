@@ -2,7 +2,8 @@
 layout: base
 page: blog
 ---
-h2 #{document.name}
-p #{formatDate(document.date, 'MMMM Do YYYY')}
-div
+div(class='post row')
+  div(class='four columns offset-by-one post-meta')
+    h1 #{document.name}
+  div(class='six columns end post-content')
     !{content}
