@@ -9,7 +9,7 @@
   "dependencies": {
     "docpad-plugin-eco": "2.0.1",
     "docpad-plugin-marked": "2.1.0",
-    "docpad": "6.20.1",
+    "docpad": "6.21.3",
     "docpad-plugin-less": "2.1.2",
     "moment": "1.7.2",
     "docpad-plugin-jade": "2.1.0",
