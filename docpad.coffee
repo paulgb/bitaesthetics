@@ -13,8 +13,7 @@ module.exports = {
             nav: [['projects', '/']
                   ['blog', '/blog.html']
                   ['about', '/pages/about.html']]
-        formatDate: (date, fmt) ->
-            moment(date).format(fmt)
+        moment: moment
 
     events:
         render: (opts, next) ->

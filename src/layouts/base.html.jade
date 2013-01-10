@@ -5,7 +5,7 @@ html(lang='en')
     title
         | #{site.name}
         if document.title
-            | &ndash; #{document.title}
+            |  &ndash; #{document.title}
     meta(name='viewport', content='width=device-width')
     link(
       href='/styles/screen.css',
@@ -20,7 +20,7 @@ html(lang='en')
     div(class='header')
       div(class='head-inner')
         a(href='/')
-          img(src='/logo/logo-size2.svg', style='width: 127px;')
+          img(src='/logo/logo-size1.svg')
         ul(class='nav')
           each navlink in site.nav
             li
@@ -30,4 +30,15 @@ html(lang='en')
                 a(href=navlink[1]) #{navlink[0]}
             
     !{content}
+
+    script
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-22205936-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
 

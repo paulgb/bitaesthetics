@@ -1,12 +1,19 @@
 ---
 layout: base
+title: Blog
 page: blog
 ---
-div
-    each post in getCollection('posts').toJSON()
-        div
-            h2
-                a(href=post.url)
-                    | #{post.name}
-            p #{formatDate(post.date, 'MMMM Do YYYY')}
-            !{post.contentRenderedWithoutLayouts}
+each post in getCollection('posts').toJSON()
+  div(class='post row')
+    div(class='four columns offset-by-one post-meta')
+      a(href=post.url)
+        h1
+          = post.title
+      ul
+        li(class='post-author') By 
+          a(href='http://paulbutler.org/')
+            | Paul Butler
+        li(class='post-date')= moment(post.date).format('MMMM Do, YYYY')
+    div(class='six columns end post-content')
+      !{post.contentRenderedWithoutLayouts}
+

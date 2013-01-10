@@ -4,6 +4,11 @@ page: blog
 ---
 div(class='post row')
   div(class='four columns offset-by-one post-meta')
-    h1 #{document.name}
+    h1= document.title
+    ul
+      li(class='post-author') By 
+        a(href='http://paulbutler.org/')
+          | Paul Butler
+      li(class='post-date')= moment(document.date).format('MMMM Do, YYYY')
   div(class='six columns end post-content')
     !{content}

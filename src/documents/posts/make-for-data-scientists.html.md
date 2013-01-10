@@ -1,6 +1,6 @@
 ---
 layout: post
-name: Make for Data Scientists
+title: Make for Data Scientists
 date: October 15, 2012
 type: post
 page: blog

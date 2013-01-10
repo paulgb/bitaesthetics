@@ -1,21 +1,12 @@
 ---
-layout: base
-name: About Bitaesthetics
+layout: page
+title: About
 page: about
 ---
+The ongoing evolution of web technology has opened up a range of opportunities for data visualization, from SVG to canvas to mobile devices. Bitaesthetics is a personal project to build a series of high-quality open-source data visualizations, while turning reusable componenets into open-source packages. My goal is to push the state of the art of open-source visualization.
 
-About bitaesthetics
----
+### About Paul
 
-The ongoing evolution of web technology has opened up a range of opportunities for data visualization, from SVG to canvas to mobile APIs. Bitaesthetics is a personal project to build a series of high-quality open-source data visualizations, while turning reusable componenets into open-source packages. My goal is to push the state of the art of open-source visualization.
-
-![Paul sailing](/images/sailing_small.jpg)
-About Paul
----
+<img src="/images/sailing_small.jpg" alt="Paul sailing" style="float: right; padding: 1px; margin-left: 10px; border: 1px solid #555;" />
 
 I like making images, animations, and interactive tools out of data. I'm best known for my 2010 [visualization of Facebook friend connections](http://www.economist.com/blogs/dailychart/2010/12/data_visualisation_1). I have a Bachelor of Mathematics from the University of Waterloo. I love sailing and live music and am currently based in Toronto.
-
-About this site
----
-
-This site is built with [docpad](https://github.com/bevry/docpad). Styled with [LESS](http://lesscss.org/) on the [Kube Framework](http://imperavi.com/kube/) and [rhythmless](http://paulgb.github.com/rhythmless/). The font you're reading is [sansation](http://www.dafont.com/sansation.font). Hosted on [Rackspace Cloud Files](http://www.rackspace.com/cloud/public/files/).
