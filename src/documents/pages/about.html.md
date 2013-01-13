@@ -3,7 +3,7 @@ layout: page
 title: About
 page: about
 ---
-The ongoing evolution of web technology has opened up a range of opportunities for data visualization, from SVG to canvas to mobile devices. Bitaesthetics is a personal project to build a series of high-quality open-source data visualizations, while turning reusable componenets into open-source packages. My goal is to push the state of the art of open-source visualization.
+The ongoing evolution of web technology has opened up a range of opportunities for data visualization, from SVG to canvas to mobile devices. Bitaesthetics is a personal project to build a series of high-quality open-source data visualizations, while turning reusable components into open-source packages. My goal is to push the state of the art of open-source visualization.
 
 ### About Paul
 
