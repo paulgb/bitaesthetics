@@ -9,4 +9,6 @@ The ongoing evolution of web technology has opened up a range of opportunities f
 
 <img src="/images/sailing_small.jpg" alt="Paul sailing" style="float: right; padding: 1px; margin-left: 10px; border: 1px solid #555;" />
 
-I like making images, animations, and interactive tools out of data. I'm best known for my 2010 [visualization of Facebook friend connections](http://www.economist.com/blogs/dailychart/2010/12/data_visualisation_1). I have a Bachelor of Mathematics from the University of Waterloo. I love sailing and live music and am currently based in Toronto.
+I like making images, animations, and interactive tools out of data. I'm probably best known for my 2010 [visualization of Facebook friend connections](http://fbmap.bitaesthetics.com). I have a Bachelor of Mathematics from the University of Waterloo. I love sailing and live music and am currently based in Toronto.
+
+I'm [paulgb on GitHub](https://github.com/paulgb). You can contact me at [bit@paulbutler.org](mailto:bit@paulbutler.org). For more about me, see [paulbutler.org](http://paulbutler.org/).

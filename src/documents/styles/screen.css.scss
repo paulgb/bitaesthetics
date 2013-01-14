@@ -52,6 +52,10 @@ div.project {
     font-size: 16px;
     background-color: rgba(0, 0, 0, 0.8);
 
+    @include respondTo(smallScreen) {
+      width: 100%;
+    }
+
     p {
       font-weight: bold;
       text-decoration: 1px 1px black;
@@ -75,15 +79,24 @@ div.project {
 
   img {
     width: 100%;
+    @include respondTo(smallScreen) {
+      height: 250px;
+      width: auto;
+      max-width: none;
+    }
   }
 }
 
-div.post h1 {
-  color: white;
+div.post {
+  margin-bottom: 40px;
 }
 
 div.post-meta {
   text-align: right;
+
+  @include respondTo(smallScreen) {
+    text-align: left;
+  }
   
   h1 {
     margin-top: 0;

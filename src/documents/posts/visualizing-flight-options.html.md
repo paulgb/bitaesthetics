@@ -15,7 +15,7 @@ With this in mind, I set the X-axis to the time and the Y-axis to the airports. 
 
 [![Visualization of Flight Options with flight Selected](/images/highlight.png)](/images/highlight.png)
 
-Although this was created in the spirit of experimentation, the result is a [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) that is fully usable for booking flights. The bookmarklet applys the visualization to data available on any [ITA Matrix](http://matrix.itasoftware.com/) Time bars results page.
+Although this was created in the spirit of experimentation, the result is a [bookmarklet](http://en.wikipedia.org/wiki/Bookmarklet) that is fully usable for booking flights. The bookmarklet applies the visualization to data available on any [ITA Matrix](http://matrix.itasoftware.com/) Time bars results page.
 
 To use the bookmarklet, drag the following button to your bookmarks toolbar (you may have to display the bookmarks toolbar from the browser menu). Then do a search on the [ITA Flight Matrix](http://matrix.itasoftware.com/), select the Time bars view, and press the button in your toolbar.
 
