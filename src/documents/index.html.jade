@@ -9,5 +9,6 @@ each project in getCollection('projects').toJSON()
     h2
       a(href=project.link)
         | #{project.name}
-    img(src='projects/images/#{project.slug}.png')
+    a(href=project.link)
+      img(src='projects/images/#{project.slug}.png')
     div(class='description')!= project.contentRendered
