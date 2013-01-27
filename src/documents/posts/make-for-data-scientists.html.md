@@ -49,3 +49,5 @@ One limitation of this approach is that intermediate data (the data made availab
 A `make` workflow can play nicely with version control systems like Git. My habit is to keep data files (both source and derived) out of the repository and instead add rules to fetch them directly from their source. This not only reduces the amount of data in the repo, it creates implicit documentation of the entire build process from source to final product. If you're dealing with collaborators, you can use environment variables to deal with the fact that different collaborators may have slightly different build environments.
 
 Make may not be the best pipeline tool for every situation, but I've yet to find a tool that beats it on simplicity and versatility.
+
+_Update_: [Factual](http://factual.com/) has released [Drake](http://blog.factual.com/introducing-drake-a-kind-of-make-for-data). Drake incorporates the core features of Make with additional features specific to data pipelines, including [HDFS](http://hadoop.apache.org/docs/hdfs/current/hdfs_user_guide.html) support.
