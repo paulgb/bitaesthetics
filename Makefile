@@ -2,8 +2,9 @@
 build :
 	npm run-script build
 
-publish : build
-	cd out; s3cmd sync ./ s3://bitaesthetics.com/
+publish :
+	gsutil rsync -R out gs://www.bitaesthetics.com
+	gsutil acl ch -u AllUsers:R -R gs://www.bitaesthetics.com
 
 serve :
 	npm run-script serve

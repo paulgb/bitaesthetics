@@ -1,11 +1,12 @@
 
-@import "compass/reset";
+@import "settings";
 @import "foundation";
-@import "_settings";
-@import "_mixins.scss";
+//@import "_settings";
+//@import "_mixins.scss";
 
 body {
   background-color: #222 !important;
+  -webkit-font-smoothing: antialiased;
 }
 
 div.header {
@@ -49,16 +50,16 @@ div.project {
     width: 40%;
     color: white;
     padding: 20px;
-    font-size: 16px;
     background-color: rgba(0, 0, 0, 0.8);
 
-    @include respondTo(smallScreen) {
+    @media #{$small-only} {
       width: 100%;
     }
 
     p {
       font-weight: bold;
       text-decoration: 1px 1px black;
+      font-size: 14px;
 
       &:last-child {
         margin-bottom: 0px;
@@ -70,16 +71,17 @@ div.project {
     position: absolute;
     background-color: rgba(0,0,0,0.6);
     padding: 9px 21px 9px 30px;
+    font-weight: bold;
 
     a {
       color: white;
-      @include text-outline(3px, black);
+      text-shadow: -3px -3px black, 0 -3px black, 3px -3px black, -3px 0 black, 3px 0 black, -3px 3px black, 0 3px black, 3px 3px black;
     }
   }
 
   img {
     width: 100%;
-    @include respondTo(smallScreen) {
+    @media #{$small-only} {
       height: 250px;
       width: auto;
       max-width: none;
@@ -94,13 +96,17 @@ div.post {
 div.post-meta {
   text-align: right;
 
-  @include respondTo(smallScreen) {
+  @media #{$small-only} {
     text-align: left;
   }
   
   h1 {
     margin-top: 0;
   }
+}
+
+ul {
+  list-style: none;
 }
 
 li.post-date {
