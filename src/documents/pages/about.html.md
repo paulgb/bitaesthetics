@@ -3,7 +3,7 @@ layout: page
 title: About
 page: about
 ---
-Bit Aesthetics serves as a portfolio and professional blog for Paul Butler, a data scientist in Toronto.
+Bit Aesthetics serves as a portfolio and professional blog for Paul Butler, a data scientist in New York.
 
 ### About Paul
 
