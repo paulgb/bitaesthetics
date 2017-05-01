@@ -7,8 +7,11 @@
     "serve": "docpad run"
   },
   "dependencies": {
-    "docpad": "^6.78.4",
-    "docpad-plugin-sass": "^2.7.4"
+    "docpad": "^6.79.4",
+    "docpad-plugin-jade": "^2.10.0",
+    "docpad-plugin-marked": "^2.4.0",
+    "docpad-plugin-sass": "^2.8.0",
+    "moment": "^2.18.1"
   },
   "devDependencies": {},
   "repository": "",
