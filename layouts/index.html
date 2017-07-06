@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+
+{{ range (where .Data.Pages.ByPublishDate "Section" "projects") }}
+<div class="project">
+    <a href="{{ .Params.link }}" class="image" style="background: url(projects/{{ .Params.slug }}.png) no-repeat center center;"></a>
+    <div class="description">
+        <div class="description_inner">
+            <h2><a href="{{ .Params.link }}">{{ .Title }}</a></h2>
+            <p class="meta">{{ .Date.Format "January 2006" }} &ndash; {{ .Params.format }}</p>
+            {{ .Content }}
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+{{ end }}
+
+{{ partial "footer.html" . }}

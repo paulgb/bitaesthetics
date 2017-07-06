@@ -1,0 +1,8 @@
+{{ partial "header.html" . }}
+
+<div class="post">
+<h2><a href="{{ .Permalink}}">{{ .Title }}</a></h2>
+<div class="postbody">{{ .Content }}</div>
+</div>
+
+{{ partial "footer.html" . }}

@@ -1,0 +1,7 @@
+{{ partial "header.html" . }}
+
+{{ range (where .Data.Pages.ByPublishDate "Section" "posts") }}
+{{ partial "post.html" . }}
+{{ end }}
+
+{{ partial "footer.html" . }}
