@@ -31,7 +31,7 @@ date: {{nb.metadata['date']}}
         'nbconvert.preprocessors.ExtractOutputPreprocessor'
     ]
     html_exporter = HTMLExporter(config=c, extra_loaders=[dl])
-    html_exporter.template_file = 'post'
+    html_exporter.template_file = 'post.tpl'
     writer = FilesWriter(build_directory=html_directory)
 
     for notebook_file in glob(path.join(in_directory, '*.ipynb')):
