@@ -10,4 +10,6 @@ bit aesthetics serves a home for the data visualizations and generative art of [
 
 I am a quantitative analyst based in New York City. I like making images, animations, and interactive tools that explore data. 
 
-Find me on [Twitter](https://twitter.com/paulgb), [GitHub](https://github.com/paulgb), or [email me](mailto:bit@paulbutler.org).
+For updates, follow me on [Twitter](https://twitter.com/paulgb) or [subscribe to my newsletter](http://tinyletter.com/paulgb).
+
+You can also find me on [GitHub](https://github.com/paulgb), or [send me an email](mailto:bit@paulbutler.org).
