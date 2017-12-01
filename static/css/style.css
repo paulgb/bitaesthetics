@@ -219,12 +219,6 @@ code {
         padding-left: 20px;
     }
 
-    .content, .header .stuff {
-        width: 80%;
-        max-width: 1000px;
-        margin: auto;
-    }
-
     .header .logo {
         float: left;
     }
