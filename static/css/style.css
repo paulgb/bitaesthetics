@@ -196,6 +196,13 @@ code {
     max-width: 100%;
 }
 
+.notice {
+    background: #cce;
+    padding: 9px;
+    font-size: 60%;
+    font-style: oblique;
+}
+
 /* Large screen style overrides */
 
 @media (min-width: 800px) {

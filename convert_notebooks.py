@@ -19,6 +19,7 @@ def convert_notebooks(in_directory, html_directory, static_directory):
 
         {% block body %}---
 title: {{resources['metadata']['name']}}
+notebook: {{resources['metadata']['path']}}/{{resources['metadata']['name']}}.ipynb
 date: {{nb.metadata['date']}}
 ---
         {{ super() }}

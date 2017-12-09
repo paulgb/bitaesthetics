@@ -1,6 +1,6 @@
 {{ partial "header.html" . }}
 
-{{ range (where .Data.Pages.ByPublishDate "Section" "projects") }}
+{{ range (where .Data.Pages.ByDate.Reverse "Section" "projects") }}
 <div class="project">
     <a href="{{ .Params.link }}" class="image" style="background: url({{ .Params.image }}) no-repeat center center;"></a>
     <div class="description">

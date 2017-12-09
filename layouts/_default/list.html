@@ -1,7 +1,7 @@
 {{ partial "header.html" . }}
 
 <div class="post">
-{{ range (where .Data.Pages.ByPublishDate "Section" "posts") }}
+{{ range (where .Data.Pages.ByDate.Reverse "Section" "posts") }}
 
 <h1><a href="{{ .Permalink}}">{{ .Title }}</a></h1>
 <p class="meta"><a href="https://paulbutler.org">Paul Butler</a> &ndash; {{ .Date.Format "January 2, 2006" }}</p>

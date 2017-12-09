@@ -1,5 +1,13 @@
 <div class="post">
 <h1><a href="{{ .Permalink}}">{{ .Title }}</a></h1>
 <p class="meta"><a href="https://paulbutler.org">Paul Butler</a> &ndash; {{ .Date.Format "January 2, 2006" }}</p>
+
+{{ if .Params.notebook }}
+<p class="notice">This post is also available as a Jupyter notebook.
+You can <a href="/{{.Params.notebook}}">download it</a> or
+<a href="https://mybinder.org/v2/gh/paulgb/bitaesthetics.git/master?filepath={{ .Params.notebook | safeURL }}
+">run it on Binder</a>.</p>
+{{ end }}
+
 <div class="postbody">{{ .Content }}</div>
 </div>
