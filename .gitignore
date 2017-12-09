@@ -1,2 +1,5 @@
 .DS_Store
 public
+static/notebooks
+static/posts
+content/posts/*.html
