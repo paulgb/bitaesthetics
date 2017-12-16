@@ -3,3 +3,4 @@ public
 static/notebooks
 static/posts
 content/posts/*.html
+.ipynb_checkpoints
