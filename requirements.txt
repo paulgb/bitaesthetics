@@ -1,4 +1,4 @@
-Jinja2>=2.10
+#Jinja2>=2.10
 jupyter>=1.0.0
 matplotlib>=1.5.3
 penkit>=0.0.5
