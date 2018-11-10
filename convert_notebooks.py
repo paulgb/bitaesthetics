@@ -18,7 +18,7 @@ def convert_notebooks(in_directory, html_directory, static_directory):
         {%- extends 'basic.tpl' -%}
 
         {% block body %}---
-title: {{resources['metadata']['name']}}
+title: {{nb.metadata['title']}}
 notebook: {{resources['metadata']['path']}}/{{resources['metadata']['name']}}.ipynb
 date: {{nb.metadata['date']}}
 ---
