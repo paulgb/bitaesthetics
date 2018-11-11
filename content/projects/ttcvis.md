@@ -1,7 +1,7 @@
 ---
 title: Toronto Transit Distance
 date: 2012-09-01
-format: interactive hypertext
+format: web interactive
 link: "http://ttcmap.bitaesthetics.com/"
 image: projects/ttcvis.png
 ---

@@ -1,7 +1,7 @@
 ---
 title: Treeverse
 date: 2017-12-01
-format: interactive hypertext
+format: browser extension
 link: "https://github.com/paulgb/Treeverse/blob/master/README.md"
 image: projects/treeverse.png
 ---

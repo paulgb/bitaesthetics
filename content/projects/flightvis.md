@@ -1,7 +1,7 @@
 ---
 title: Visualizing Flight Options
 date: 2013-01-13
-format: interactive hypertext
+format: web interactive
 link: "http://www.bitaesthetics.com/posts/visualizing-flight-options.html"
 image: projects/flightvis.png
 ---
